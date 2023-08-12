@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="random-api" />
+        <module name="weather-api" />
+        <module name="proposed-trips" />
+        <module name="users" />
+        <module name="create-trips" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="create-trips" target="1.8" />
+      <module name="proposed-trips" target="1.8" />
+      <module name="random-api" target="1.8" />
+      <module name="users" target="1.8" />
+      <module name="weather-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="create-trips" options="-parameters" />
+      <module name="proposed-trips" options="-parameters" />
+      <module name="random-api" options="-parameters" />
+      <module name="users" options="-parameters" />
+      <module name="weather-api" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/trip-advisor(new)/code/create-trips/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trip-advisor(new)/code/proposed-trips/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trip-advisor(new)/code/random-number/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trip-advisor(new)/code/users/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trip-advisor(new)/code/weather-api/src/main/java" charset="UTF-8" />
+  </component>
+</project>

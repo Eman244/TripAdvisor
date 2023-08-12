@@ -1,0 +1,7 @@
+com\trip\advisor\config\AppConfig.class
+com\trip\advisor\services\dto\CurrentCondition.class
+com\trip\advisor\services\dto\Weather.class
+com\trip\advisor\TripAdvisorApplication.class
+com\trip\advisor\controller\WeatherController.class
+com\trip\advisor\services\dto\Data.class
+com\trip\advisor\services\WeatherService.class
